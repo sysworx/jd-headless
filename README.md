@@ -6,3 +6,8 @@ JD-Headless kann in irgendein Verzeichnis kopiert werden, lediglich in der Confi
 
 # Download (Binary):
 http://www.sys-worx.net/software/jd-headless/
+
+# Screenshoots:
+![Alt text](http://www.sys-worx.net/wp-content/uploads/2016/06/jd_headless_0.png "")
+![Alt text](http://www.sys-worx.net/wp-content/uploads/2016/06/jd_headless_1.png "")
+![Alt text](http://www.sys-worx.net/wp-content/uploads/2016/06/jd_headless_2.png "")
