@@ -1,0 +1,7 @@
+D:\Coding\jd_headless\bin\Release\jd_headless.exe.config
+D:\Coding\jd_headless\bin\Release\jd_headless.exe
+D:\Coding\jd_headless\obj\Release\jd_headless.frm_about.resources
+D:\Coding\jd_headless\obj\Release\jd_headless.NotificationIcon.resources
+D:\Coding\jd_headless\obj\Release\jd_headless.Resources.resources
+D:\Coding\jd_headless\obj\Release\jd_headless.vbproj.GenerateResource.Cache
+D:\Coding\jd_headless\obj\Release\jd_headless.exe
